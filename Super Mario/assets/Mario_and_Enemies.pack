@@ -1,0 +1,33 @@
+
+Mario_and_Enemies.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+big_mario
+  rotate: false
+  xy: 1, 35
+  size: 288, 64
+  orig: 288, 64
+  offset: 0, 0
+  index: -1
+little_mario
+  rotate: false
+  xy: 1, 1
+  size: 216, 32
+  orig: 216, 32
+  offset: 0, 0
+  index: -1
+goomba
+  rotate: false
+  xy: 291, 67
+  size: 192, 32
+  orig: 192, 32
+  offset: 0, 0
+  index: -1
+Mushroom
+  rotate: false
+  xy: 219, 1
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
